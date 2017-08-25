@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExchangeCalculator_v1</string>
+
+    <string name="hello_world">Exchange Calculator v.1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">NOK->EUR</string>
+    <string name="button2">EUR->NOK</string>
+</resources>
